@@ -1,0 +1,6 @@
+com\example\controller\ArRestController.class
+com\example\ArApplication.class
+com\example\service\ServiceImpl.class
+com\example\entity\CitizenApp.class
+com\example\repo\CitizenAppRepo.class
+com\example\service\ServiceRepo.class
